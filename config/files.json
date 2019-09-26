@@ -1,0 +1,499 @@
+{
+  "file_reads": [
+      {
+          "abs_path": "C:\\Windows\\TEMP\\History\\History.IE5\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:50.957589",
+              "file_info": "data",
+              "md5": "ba96961f5e22882527919e19daea510f",
+              "mime": "application/octet-stream",
+              "sha1": "e10e8bebbd0573e3a1494ea3f21682f7490c427b",
+              "sha256": "dace5ad59099429d8aed4ee279f1263efb65d64456931398465a396cf0e79bd7",
+              "size": 145
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM",
+              "FILE_ATTRIBUTE_ARCHIVE"
+          ],
+          "filename": "C:\\Windows\\TEMP\\History\\History.IE5\\desktop.ini",
+          "iostatus": [
+              "FILE_OPENED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\827PQ5HE\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:50.597593",
+              "file_info": "data",
+              "md5": "4a3deb274bb5f0212c2419d3d8d08612",
+              "mime": "application/octet-stream",
+              "sha1": "fa52f823b821155cf0ec527d52ce9b1390ec615e",
+              "sha256": "2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38",
+              "size": 67
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\827PQ5HE\\desktop.ini",
+          "iostatus": [
+              "FILE_CREATED",
+              "FILE_OPENED"
+          ]
+      },
+      {
+          "abs_path": "C:\\ProgramData\\Microsoft\\DeviceSync\\delete.txt",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:24:43.206382",
+              "file_info": "data",
+              "md5": "d8cbce5dbf4a6d712fc4ee532a79b576",
+              "mime": "application/octet-stream",
+              "sha1": "ba6a795f0b5302c7dceb36022bc1f69c3ba1fe46",
+              "sha256": "11f6cbafa6f7642145f694523bdd7512dfa6aca417a42f59dee428ec898ed6fa",
+              "size": 172
+          },
+          "filename": "C:\\ProgramData\\Microsoft\\DeviceSync\\delete.txt",
+          "iostatus": [
+              "FILE_CREATED",
+              "FILE_OPENED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:42.309690",
+              "file_info": "data",
+              "md5": "4a3deb274bb5f0212c2419d3d8d08612",
+              "mime": "application/octet-stream",
+              "sha1": "fa52f823b821155cf0ec527d52ce9b1390ec615e",
+              "sha256": "2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38",
+              "size": 67
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\desktop.ini",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\DVPGH27N\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:50.457595",
+              "file_info": "data",
+              "md5": "4a3deb274bb5f0212c2419d3d8d08612",
+              "mime": "application/octet-stream",
+              "sha1": "fa52f823b821155cf0ec527d52ce9b1390ec615e",
+              "sha256": "2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38",
+              "size": 67
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\DVPGH27N\\desktop.ini",
+          "iostatus": [
+              "FILE_CREATED",
+              "FILE_OPENED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\2T00YK4W\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:50.397595",
+              "file_info": "data",
+              "md5": "4a3deb274bb5f0212c2419d3d8d08612",
+              "mime": "application/octet-stream",
+              "sha1": "fa52f823b821155cf0ec527d52ce9b1390ec615e",
+              "sha256": "2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38",
+              "size": 67
+          },
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\2T00YK4W\\desktop.ini",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\MQENAB40\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:49.913601",
+              "file_info": "data",
+              "md5": "4a3deb274bb5f0212c2419d3d8d08612",
+              "mime": "application/octet-stream",
+              "sha1": "fa52f823b821155cf0ec527d52ce9b1390ec615e",
+              "sha256": "2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38",
+              "size": 67
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\MQENAB40\\desktop.ini",
+          "iostatus": [
+              "FILE_CREATED",
+              "FILE_OPENED"
+          ]
+      }
+  ],
+  "file_writes": [
+      {
+          "abs_path": "C:\\Windows\\TEMP\\History",
+          "filename": "C:\\Windows\\TEMP\\History",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "filename": "\\Device\\KsecDD"
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\2T00YK4W\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:50.397595",
+              "file_info": "data",
+              "md5": "4a3deb274bb5f0212c2419d3d8d08612",
+              "mime": "application/octet-stream",
+              "sha1": "fa52f823b821155cf0ec527d52ce9b1390ec615e",
+              "sha256": "2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38",
+              "size": 67
+          },
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\2T00YK4W\\desktop.ini",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5",
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\DEVICE\\NETBT_TCPIP_{C1A73066-7389-4CE7-BA51-E91B16CA9A63}",
+          "filename": "C:\\DEVICE\\NETBT_TCPIP_{C1A73066-7389-4CE7-BA51-E91B16CA9A63}",
+          "iostatus": [
+              "FILE_SUPERSEDED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files",
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\ProgramData\\Microsoft\\Crypto\\RSA\\MachineKeys\\ud91d2a0b",
+          "filename": "C:\\ProgramData\\Microsoft\\Crypto\\RSA\\MachineKeys\\ud91d2a0b",
+          "iostatus": [
+              "FILE_SUPERSEDED"
+          ]
+      },
+      {
+          "abs_path": "C:\\DEVICE\\NETBT_TCPIP_{846EE342-7039-11DE-9D20-806E6F6E6963}",
+          "filename": "C:\\DEVICE\\NETBT_TCPIP_{846EE342-7039-11DE-9D20-806E6F6E6963}",
+          "iostatus": [
+              "FILE_SUPERSEDED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\History\\History.IE5\\index.dat",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:50.965589",
+              "file_info": "data",
+              "md5": "7db4231a9aa4d88e31518c3db806fed6",
+              "mime": "application/octet-stream",
+              "sha1": "588df6f5f32bdef6dc878cfd75fff58173f38f4d",
+              "sha256": "1dceda109d83c42ece22785af96bfbdcfeb02d3705f8dfe897286eb2038e1980",
+              "size": 32768
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM",
+              "FILE_ATTRIBUTE_ARCHIVE"
+          ],
+          "filename": "C:\\Windows\\TEMP\\History\\History.IE5\\index.dat",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\DEVICE\\NETBT_TCPIP_{E7DC8DDF-D0EC-4D3E-92CA-28E538F71FF9}",
+          "filename": "C:\\DEVICE\\NETBT_TCPIP_{E7DC8DDF-D0EC-4D3E-92CA-28E538F71FF9}",
+          "iostatus": [
+              "FILE_SUPERSEDED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Cookies\\",
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Cookies\\",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\ProgramData\\Microsoft\\Crypto\\RSA\\MachineKeys\\9652D216",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:22.577921",
+              "file_info": "data",
+              "md5": "bdf5dc9216d7c31407464586cc224170",
+              "mime": "application/octet-stream",
+              "sha1": "6f1c2ddd04500371049d4c7063a1f07ce1feba6b",
+              "sha256": "bdbd6a2a825ddc734efcb65c7dfb3bc395eb81c26915e1ab7ba895f0a6ed8cca",
+              "size": 8
+          },
+          "filename": "C:\\ProgramData\\Microsoft\\Crypto\\RSA\\MachineKeys\\9652D216",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\2T00YK4W",
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\2T00YK4W",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\ProgramData\\Microsoft\\Network\\Connections\\Pbk\\",
+          "filename": "C:\\ProgramData\\Microsoft\\Network\\Connections\\Pbk\\"
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\History\\History.IE5\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:50.957589",
+              "file_info": "data",
+              "md5": "ba96961f5e22882527919e19daea510f",
+              "mime": "application/octet-stream",
+              "sha1": "e10e8bebbd0573e3a1494ea3f21682f7490c427b",
+              "sha256": "dace5ad59099429d8aed4ee279f1263efb65d64456931398465a396cf0e79bd7",
+              "size": 145
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM",
+              "FILE_ATTRIBUTE_ARCHIVE"
+          ],
+          "filename": "C:\\Windows\\TEMP\\History\\History.IE5\\desktop.ini",
+          "iostatus": [
+              "FILE_OPENED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\MQENAB40",
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\MQENAB40",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\index.dat",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:50.969589",
+              "file_info": "data",
+              "md5": "27ac20cda3bed8d7ef9da8843e82b1bd",
+              "mime": "application/octet-stream",
+              "sha1": "c5692155ce2234b6a885426f763abb41039e56a1",
+              "sha256": "01df1024fe381df11d6bfee0d0f24c7e9d6d476b76e88ac2c0409f94d2b2fba7",
+              "size": 32768
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM",
+              "FILE_ATTRIBUTE_ARCHIVE"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\index.dat",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\MQENAB40\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:49.913601",
+              "file_info": "data",
+              "md5": "4a3deb274bb5f0212c2419d3d8d08612",
+              "mime": "application/octet-stream",
+              "sha1": "fa52f823b821155cf0ec527d52ce9b1390ec615e",
+              "sha256": "2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38",
+              "size": 67
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\MQENAB40\\desktop.ini",
+          "iostatus": [
+              "FILE_CREATED",
+              "FILE_OPENED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\DVPGH27N",
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\DVPGH27N",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "filename": "\\Device\\Afd\\AsyncConnectHlp",
+          "iostatus": [
+              "FILE_SUPERSEDED"
+          ]
+      },
+      {
+          "filename": "Nsi",
+          "iostatus": [
+              "FILE_SUPERSEDED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\827PQ5HE",
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\827PQ5HE",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\827PQ5HE\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:50.597593",
+              "file_info": "data",
+              "md5": "4a3deb274bb5f0212c2419d3d8d08612",
+              "mime": "application/octet-stream",
+              "sha1": "fa52f823b821155cf0ec527d52ce9b1390ec615e",
+              "sha256": "2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38",
+              "size": 67
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\827PQ5HE\\desktop.ini",
+          "iostatus": [
+              "FILE_CREATED",
+              "FILE_OPENED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:42.309690",
+              "file_info": "data",
+              "md5": "4a3deb274bb5f0212c2419d3d8d08612",
+              "mime": "application/octet-stream",
+              "sha1": "fa52f823b821155cf0ec527d52ce9b1390ec615e",
+              "sha256": "2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38",
+              "size": 67
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\desktop.ini",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "filename": "\\Device\\Afd\\Endpoint",
+          "iostatus": [
+              "FILE_SUPERSEDED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\DVPGH27N\\desktop.ini",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:50.457595",
+              "file_info": "data",
+              "md5": "4a3deb274bb5f0212c2419d3d8d08612",
+              "mime": "application/octet-stream",
+              "sha1": "fa52f823b821155cf0ec527d52ce9b1390ec615e",
+              "sha256": "2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38",
+              "size": 67
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Temporary Internet Files\\Content.IE5\\DVPGH27N\\desktop.ini",
+          "iostatus": [
+              "FILE_CREATED",
+              "FILE_OPENED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\Cookies\\index.dat",
+          "ext_info": {
+              "create_timestamp": "2015-11-11 11:25:50.969589",
+              "file_info": "data",
+              "md5": "7db4231a9aa4d88e31518c3db806fed6",
+              "mime": "application/octet-stream",
+              "sha1": "588df6f5f32bdef6dc878cfd75fff58173f38f4d",
+              "sha256": "1dceda109d83c42ece22785af96bfbdcfeb02d3705f8dfe897286eb2038e1980",
+              "size": 32768
+          },
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM",
+              "FILE_ATTRIBUTE_ARCHIVE"
+          ],
+          "filename": "C:\\Windows\\TEMP\\Cookies\\index.dat",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "abs_path": "C:\\Windows\\TEMP\\History\\History.IE5\\",
+          "file_attributes": [
+              "FILE_ATTRIBUTE_HIDDEN",
+              "FILE_ATTRIBUTE_SYSTEM"
+          ],
+          "filename": "C:\\Windows\\TEMP\\History\\History.IE5\\",
+          "iostatus": [
+              "FILE_CREATED"
+          ]
+      },
+      {
+          "filename": "\\Device\\RasAcd",
+          "iostatus": [
+              "FILE_SUPERSEDED"
+          ]
+      },
+      {
+          "abs_path": "C:\\DEVICE\\NETBT_TCPIP_{566D8954-A87F-424F-869F-9D35494B1642}",
+          "filename": "C:\\DEVICE\\NETBT_TCPIP_{566D8954-A87F-424F-869F-9D35494B1642}",
+          "iostatus": [
+              "FILE_SUPERSEDED"
+          ]
+      }
+  ]
+}
