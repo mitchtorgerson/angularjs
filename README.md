@@ -1,8 +1,3 @@
-# Lastline UI Interview Coding Exercise
-
-UI engineers at Lastline are in charge of creating and maintaining a complex
-codebase with a number of components and services. This exercise is intended to
-approximate what a UI engineer at Lastline might do on a day-to-day basis.
 
 # Installation
 
@@ -11,35 +6,9 @@ it's done, you can start the server by running the `start` script.
 
 ```
 npm start
-``` 
+```
 
 The server will then be available at `http://localhost:3000`.
-
-# Exercise
-
-Our analysis engine returns data based on all the information we have collected
-from submitted or extracted malware. Part of this data contains all the file
-reads and file writes that a subject has done.
-
-This project has components and routing for 3 views: home, file reads, and file
-writes.  While some of the file reads page is started, it isn't complete! The file
-writes page is even more incomplete.
-
-For this exercise, we'd like you to do the following:
-
-- Update the http client for the file events api to include support for the new
-  file writes endpoint.
-- Create an angular component to display the file events on the file reads and
-  file writes pages.
-
-For the visual components, you may use any styling or component framework. For
-your convenience, Bootstrap 4 is included.
-
-## Tests
-
-We have provided a testing configuration, tasks, and basic test example to help
-get you started with testing your work. Run the test suite in watch mode with
-`npm run karma`, or `npm test` for a single run.
 
 # API
 
@@ -110,7 +79,3 @@ during the analysis run and associates it with all files in the report.
 * [Webpack](https://webpack.js.org/concepts/)
 * [Karma](https://karma-runner.github.io/0.8/index.html)
 * [ui.router](https://ui-router.github.io/ng1/docs/latest/)
-
-# Questions?
-
-Feel free to email support@lastline.com for any questions you may have.
