@@ -1,3 +1,62 @@
+* {
+  font-family: "Open Sans";
+  font-size: 12px;
+}
+
 ll-app > .main-body {
   margin-bottom: 40px;
+}
+
+.event-list-view {
+  border: #cccccc 1px solid;
+  overflow: auto;
+  height: 500px;
+}
+
+.event-row {
+  border-bottom: #cccccc 1px solid;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.event-row:first-child {
+  border-top: #cccccc 1px solid;
+}
+
+.event-row:hover .event-date,
+.event-row:hover .file-name{
+  font-weight: bold;
+}
+
+.event-row .file-name {
+  font-size: 120%;
+}
+
+.event-row .file-path {
+  visibility: hidden;
+  font-size: 80%;
+}
+
+.event-row:hover .file-path {
+   visibility: visible;
+}
+
+.event-row:hover {
+  background: #efefef;
+}
+
+.properties-container {
+  padding: 0 20px 20px 20px;
+}
+
+.properties-container .header {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.properties-container .property-display {
+  padding: 20px;
+  border: #cccccc 1px solid;
+  margin: 10px 0;
+  background: #efefef;
 }

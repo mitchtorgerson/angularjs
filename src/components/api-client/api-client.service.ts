@@ -15,4 +15,13 @@ export class ApiClientService {
         return response.data;
       });
   }
+
+  public getFileWrites(): ng.IPromise<any> {
+      return this
+          .$http
+          .get('/api/files/writes')
+          .then((response) => {
+              return response.data;
+          });
+  }
 }

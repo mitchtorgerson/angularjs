@@ -1,3 +1,5 @@
+"use strict";
+
 import '@uirouter/angularjs';
 import 'angular-animate';
 import 'angular-cookies';
@@ -12,6 +14,8 @@ import angular from 'angular';
 
 import { FileReadsPageModule } from '../file-reads-page/file-reads-page.module';
 import { FileWritesPageModule } from '../file-writes-page/file-writes-page.module';
+
+import { FileListModule } from '../file-list/file-list.module';
 
 import { AppComponent } from './app.component';
 import { AppFooterModule } from "./app-footer/app-footer.module";
@@ -35,6 +39,7 @@ export const AppModule = angular
     AppHeaderModule.name,
     FileReadsPageModule.name,
     FileWritesPageModule.name,
+    FileListModule.name,
   ])
   .component('llApp', AppComponent)
   .config(($urlServiceProvider, $stateProvider) => {
@@ -55,7 +60,7 @@ export const AppModule = angular
         name: 'root.fileWrites',
         url: '/writes',
         component: 'llFileWritesPage',
-      })
+      });
   })
   .config(($locationProvider) => {
     $locationProvider.html5Mode({
