@@ -7,6 +7,10 @@ ll-app > .main-body {
   margin-bottom: 40px;
 }
 
+.errorMsg {
+  color: red;
+}
+
 .event-list-view {
   border: #cccccc 1px solid;
   overflow: auto;

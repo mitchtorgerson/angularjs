@@ -4,6 +4,7 @@ export class FileWritesPageController implements ng.IComponentController {
 
   public fileWrites: any;
   public lastLoaded?: Date;
+  public errorMsg?: string;
   private llApiClient: ApiClientService;
 
   constructor(llApiClient: ApiClientService) {
@@ -11,6 +12,7 @@ export class FileWritesPageController implements ng.IComponentController {
 
     this.llApiClient = llApiClient;
     this.fileWrites = [];
+    this.errorMsg = '';
     this.lastLoaded = undefined;
   }
 
@@ -28,6 +30,8 @@ export class FileWritesPageController implements ng.IComponentController {
       .then((fileWrites) => {
         this.fileWrites = fileWrites;
         this.lastLoaded = new Date();
+      }, (error) => {
+          this.errorMsg = error.error;
       });
   }
 }

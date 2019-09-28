@@ -13,6 +13,8 @@ export class ApiClientService {
       .get('/api/files/reads')
       .then((response) => {
         return response.data;
+      }, () => {
+        return { error: 'Error retreiving reads' };
       });
   }
 
@@ -22,6 +24,8 @@ export class ApiClientService {
           .get('/api/files/writes')
           .then((response) => {
               return response.data;
+          }, () => {
+              return { error: 'Error retreiving writes' };
           });
   }
 }

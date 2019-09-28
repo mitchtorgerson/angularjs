@@ -4,6 +4,7 @@ export class FileReadsPageController implements ng.IComponentController {
 
   public fileReads: any;
   public lastLoaded?: Date;
+  public errorMsg?: string;
   private llApiClient: ApiClientService;
 
   constructor(llApiClient: ApiClientService) {
@@ -11,6 +12,7 @@ export class FileReadsPageController implements ng.IComponentController {
 
     this.llApiClient = llApiClient;
     this.fileReads = [];
+    this.errorMsg = '';
     this.lastLoaded = undefined;
   }
 
@@ -28,6 +30,8 @@ export class FileReadsPageController implements ng.IComponentController {
       .then((fileReads) => {
         this.fileReads = fileReads;
         this.lastLoaded = new Date();
+      }, (error) => {
+          this.errorMsg = error.error;
       });
   }
 }

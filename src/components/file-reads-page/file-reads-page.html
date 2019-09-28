@@ -4,6 +4,8 @@
 
       <h1>File Reads</h1>
 
+      <div class="errorMsg" ng-if="$ctrl.errorMsg">{{$ctrl.errorMsg}}</div>
+
       <pre>Last Loaded: {{ $ctrl.lastLoaded }}</pre>
 
       <ll-file-list list-data="$ctrl.fileReads"></ll-file-list>
